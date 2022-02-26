@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class T1_Webtable_Order_Verify {
+public class T1_WebTable_Order_Verify {
 
     public WebDriver driver;
 
